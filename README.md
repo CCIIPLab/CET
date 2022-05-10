@@ -46,3 +46,21 @@ The KGE baselines can be found in KGE_baselines.
 
 ### Acknowledgement
 We refer to the code of <a href='https://github.com/dmlc/dgl'>DGL</a>. Thanks for their contributions.
+
+### Citation
+If you find this code helpful, please kindly cite the following paper.
+```
+@inproceedings{pan-etal-2021-context-aware,
+    title = "Context-aware Entity Typing in Knowledge Graphs",
+    author = "Pan, Weiran and Wei, Wei and Mao, Xian-Ling",
+    booktitle = "Findings of the Association for Computational Linguistics: EMNLP 2021",
+    month = nov,
+    year = "2021",
+    address = "Punta Cana, Dominican Republic",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2021.findings-emnlp.193",
+    doi = "10.18653/v1/2021.findings-emnlp.193",
+    pages = "2240--2250",
+}
+
+```
